@@ -15,7 +15,7 @@ function App() {
       </div>
       <h1>Vite + React</h1>
 
-      <p className="read-the-docs">Test App Running Scottie</p>
+      <p className="read-the-docs">Test App Running Scottie Pottie</p>
     </>
   )
 }
